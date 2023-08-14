@@ -1,0 +1,28 @@
+:root {
+    --fonte-primaria: 1.5em;
+
+    --cor-fundo-select: #FFFFFF;
+    --cor-shadow-select: rgba(0, 0, 0, 0.06);
+}
+
+.lista-suspensa {
+    margin: 1em 0;
+}
+
+.lista-suspensa label {
+    display: block;
+    margin-bottom: 0.5em;
+    font-size: var(--fonte-primaria);
+}
+
+.lista-suspensa select {   
+    background-color: var(--cor-fundo-select);
+    box-shadow: 10px 10px 30px var(--cor-shadow-select);
+    width: 100%;
+    border: none;
+    font-size: var(--fonte-primaria);
+    padding: 1em;
+    box-sizing: border-box;
+}
+
+

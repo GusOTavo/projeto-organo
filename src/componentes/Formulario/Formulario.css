@@ -1,0 +1,18 @@
+:root {
+    --cor-fundo-form: #F2F2F2;
+    --cor-shadow-form: rgb(0, 0, 0, 0.8);
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 5em 0;
+}
+
+.formulario form {
+    max-width: 80%;
+    background-color: var(--cor-fundo-form);
+    border-radius: 20px;
+    padding: 1.5em 3em;
+    box-shadow: 0.5em 0.5em 1em var(--cor-shadow-form);
+}
