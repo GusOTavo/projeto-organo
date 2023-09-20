@@ -49,187 +49,187 @@ function App() {
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'JULIANA AMOASEI',
+      nome: 'JULIA KENOBI',
       cargo: 'Desenvolvedora de software e instrutora',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
+      imagem: 'https://img.freepik.com/fotos-gratis/linda-jovem-latina-retrato-de-rosto_53876-143238.jpg?w=740&t=st=1695221393~exp=1695221993~hmac=752ba5f3d53a73d0c537ed0fe8d57267a85aab528efd0c629af1bf89d3851bb3',
       time: times[0].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'DANIEL ARTINE',
+      nome: 'RICARDO SKYWALKER',
       cargo: 'Engenheiro de Software na Stone Age',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      imagem: 'https://img.freepik.com/fotos-premium/a-man-with-curly-hair-and-a-brown-shirt-is-standing-against-a-white-background_910054-9974.jpg',
       time: times[0].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'GUILHERME LIMA',
+      nome: 'MARIO VADER',
       cargo: 'Desenvolvedor Python e JavaScript na Alura',
-      imagem: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
+      imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[0].nome
     },
     {
       id: uuidv4(),
-      nome: 'PAULO SILVEIRA',
+      nome: 'LEIA ORGANA',
       cargo: 'Hipster e CEO da Alura',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
+      imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[0].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'JULIANA AMOASEI',
+      nome: 'JULIA KENOBI',
       cargo: 'Desenvolvedora de software e instrutora',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
+      imagem: 'https://img.freepik.com/fotos-gratis/linda-jovem-latina-retrato-de-rosto_53876-143238.jpg?w=740&t=st=1695221393~exp=1695221993~hmac=752ba5f3d53a73d0c537ed0fe8d57267a85aab528efd0c629af1bf89d3851bb3',
       time: times[1].nome
     },
     {
       id: uuidv4(),
-      nome: 'DANIEL ARTINE',
+      nome: 'RICARDO SKYWALKER',
       cargo: 'Engenheiro de Software na Stone Age',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
-      time: times[1].nome
-    },
-    {
-      id: uuidv4(),
-      favorito: false,
-      nome: 'GUILHERME LIMA',
-      cargo: 'Desenvolvedor Python e JavaScript na Alura',
-      imagem: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
+      imagem: 'https://img.freepik.com/fotos-premium/a-man-with-curly-hair-and-a-brown-shirt-is-standing-against-a-white-background_910054-9974.jpg',
       time: times[1].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'PAULO SILVEIRA',
-      cargo: 'Hipster e CEO da Alura',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
+      nome: 'MARIO VADER',
+      cargo: 'Desenvolvedor Python e JavaScript na Alura',
+      imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[1].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'JULIANA AMOASEI',
-      cargo: 'Desenvolvedora de software e instrutora',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
-      time: times[2].nome
-    },
-    {
-      id: uuidv4(),
-      favorito: false,
-      nome: 'DANIEL ARTINE',
-      cargo: 'Engenheiro de Software na Stone Age',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
-      time: times[2].nome
-    },
-    {
-      id: uuidv4(),
-      favorito: false,
-      nome: 'GUILHERME LIMA',
-      cargo: 'Desenvolvedor Python e JavaScript na Alura',
-      imagem: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
-      time: times[2].nome
-    },
-    {
-      id: uuidv4(),
-      favorito: false,
-      nome: 'PAULO SILVEIRA',
+      nome: 'LEIA ORGANA',
       cargo: 'Hipster e CEO da Alura',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
+      imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      time: times[1].nome
+    },
+    {
+      id: uuidv4(),
+      favorito: false,
+      nome: 'JULIA KENOBI',
+      cargo: 'Desenvolvedora de software e instrutora',
+      imagem: 'https://img.freepik.com/fotos-gratis/linda-jovem-latina-retrato-de-rosto_53876-143238.jpg?w=740&t=st=1695221393~exp=1695221993~hmac=752ba5f3d53a73d0c537ed0fe8d57267a85aab528efd0c629af1bf89d3851bb3',
       time: times[2].nome
     },
     {
       id: uuidv4(),
-      nome: 'JULIANA AMOASEI',
-      cargo: 'Desenvolvedora de software e instrutora',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
-      time: times[3].nome
-    },
-    {
-      id: uuidv4(),
       favorito: false,
-      nome: 'DANIEL ARTINE',
+      nome: 'RICARDO SKYWALKER',
       cargo: 'Engenheiro de Software na Stone Age',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
-      time: times[3].nome
+      imagem: 'https://img.freepik.com/fotos-premium/a-man-with-curly-hair-and-a-brown-shirt-is-standing-against-a-white-background_910054-9974.jpg',
+      time: times[2].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'GUILHERME LIMA',
+      nome: 'MARIO VADER',
       cargo: 'Desenvolvedor Python e JavaScript na Alura',
-      imagem: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
-      time: times[3].nome
+      imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      time: times[2].nome
     },
     {
       id: uuidv4(),
-      nome: 'PAULO SILVEIRA',
+      favorito: false,
+      nome: 'LEIA ORGANA',
       cargo: 'Hipster e CEO da Alura',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
+      imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      time: times[2].nome
+    },
+    {
+      id: uuidv4(),
+      nome: 'JULIA KENOBI',
+      cargo: 'Desenvolvedora de software e instrutora',
+      imagem: 'https://img.freepik.com/fotos-gratis/linda-jovem-latina-retrato-de-rosto_53876-143238.jpg?w=740&t=st=1695221393~exp=1695221993~hmac=752ba5f3d53a73d0c537ed0fe8d57267a85aab528efd0c629af1bf89d3851bb3',
       time: times[3].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'JULIANA AMOASEI',
-      cargo: 'Desenvolvedora de software e instrutora',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
-      time: times[4].nome
-    },
-    {
-      id: uuidv4(),
-      nome: 'DANIEL ARTINE',
+      nome: 'RICARDO SKYWALKER',
       cargo: 'Engenheiro de Software na Stone Age',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
-      time: times[4].nome
+      imagem: 'https://img.freepik.com/fotos-premium/a-man-with-curly-hair-and-a-brown-shirt-is-standing-against-a-white-background_910054-9974.jpg',
+      time: times[3].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'GUILHERME LIMA',
+      nome: 'MARIO VADER',
       cargo: 'Desenvolvedor Python e JavaScript na Alura',
-      imagem: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
+      imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      time: times[3].nome
+    },
+    {
+      id: uuidv4(),
+      nome: 'LEIA ORGANA',
+      cargo: 'Hipster e CEO da Alura',
+      imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      time: times[3].nome
+    },
+    {
+      id: uuidv4(),
+      favorito: false,
+      nome: 'JULIA KENOBI',
+      cargo: 'Desenvolvedora de software e instrutora',
+      imagem: 'https://img.freepik.com/fotos-gratis/linda-jovem-latina-retrato-de-rosto_53876-143238.jpg?w=740&t=st=1695221393~exp=1695221993~hmac=752ba5f3d53a73d0c537ed0fe8d57267a85aab528efd0c629af1bf89d3851bb3',
       time: times[4].nome
     },
     {
       id: uuidv4(),
-      nome: 'PAULO SILVEIRA',
-      cargo: 'Hipster e CEO da Alura',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
+      nome: 'RICARDO SKYWALKER',
+      cargo: 'Engenheiro de Software na Stone Age',
+      imagem: 'https://img.freepik.com/fotos-premium/a-man-with-curly-hair-and-a-brown-shirt-is-standing-against-a-white-background_910054-9974.jpg',
       time: times[4].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'JULIANA AMOASEI',
+      nome: 'MARIO VADER',
+      cargo: 'Desenvolvedor Python e JavaScript na Alura',
+      imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      time: times[4].nome
+    },
+    {
+      id: uuidv4(),
+      nome: 'LEIA ORGANA',
+      cargo: 'Hipster e CEO da Alura',
+      imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      time: times[4].nome
+    },
+    {
+      id: uuidv4(),
+      favorito: false,
+      nome: 'JULIA KENOBI',
       cargo: 'Desenvolvedora de software e instrutora',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/juliana-amoasei.1647533644.jpeg',
+      imagem: 'https://img.freepik.com/fotos-gratis/linda-jovem-latina-retrato-de-rosto_53876-143238.jpg?w=740&t=st=1695221393~exp=1695221993~hmac=752ba5f3d53a73d0c537ed0fe8d57267a85aab528efd0c629af1bf89d3851bb3',
       time: times[5].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'DANIEL ARTINE',
+      nome: 'RICARDO SKYWALKER',
       cargo: 'Engenheiro de Software na Stone Age',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      imagem: 'https://img.freepik.com/fotos-premium/a-man-with-curly-hair-and-a-brown-shirt-is-standing-against-a-white-background_910054-9974.jpg',
       time: times[5].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'GUILHERME LIMA',
+      nome: 'MARIO VADER',
       cargo: 'Desenvolvedor Python e JavaScript na Alura',
-      imagem: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
+      imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[5].nome
     },
     {
       id: uuidv4(),
       favorito: false,
-      nome: 'PAULO SILVEIRA',
+      nome: 'LEIA ORGANA',
       cargo: 'Hipster e CEO da Alura',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/paulo-silveira.1647533644.jpeg',
+      imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[5].nome
     },
   ]
