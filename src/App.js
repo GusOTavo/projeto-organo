@@ -66,14 +66,14 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: 'MARIO VADER',
-      cargo: 'Desenvolvedor Python e JavaScript na Alura',
+      cargo: 'Desenvolvedor Python e JavaScript na Empresa',
       imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[0].nome
     },
     {
       id: uuidv4(),
       nome: 'LEIA ORGANA',
-      cargo: 'Hipster e CEO da Alura',
+      cargo: 'Hipster e Desenvolvedora de Jogos Mobile',
       imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[0].nome
     },
@@ -96,7 +96,7 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: 'MARIO VADER',
-      cargo: 'Desenvolvedor Python e JavaScript na Alura',
+      cargo: 'Desenvolvedor Python e JavaScript na Empresa',
       imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[1].nome
     },
@@ -104,7 +104,7 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: 'LEIA ORGANA',
-      cargo: 'Hipster e CEO da Alura',
+      cargo: 'Hipster e Desenvolvedora de Jogos Mobile',
       imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[1].nome
     },
@@ -128,7 +128,7 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: 'MARIO VADER',
-      cargo: 'Desenvolvedor Python e JavaScript na Alura',
+      cargo: 'Desenvolvedor Python e JavaScript na Empresa',
       imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[2].nome
     },
@@ -136,7 +136,7 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: 'LEIA ORGANA',
-      cargo: 'Hipster e CEO da Alura',
+      cargo: 'Hipster e Desenvolvedora de Jogos Mobile',
       imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[2].nome
     },
@@ -159,14 +159,14 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: 'MARIO VADER',
-      cargo: 'Desenvolvedor Python e JavaScript na Alura',
+      cargo: 'Desenvolvedor Python e JavaScript na Empresa',
       imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[3].nome
     },
     {
       id: uuidv4(),
       nome: 'LEIA ORGANA',
-      cargo: 'Hipster e CEO da Alura',
+      cargo: 'Hipster e Desenvolvedora de Jogos Mobile',
       imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[3].nome
     },
@@ -189,14 +189,14 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: 'MARIO VADER',
-      cargo: 'Desenvolvedor Python e JavaScript na Alura',
+      cargo: 'Desenvolvedor Python e JavaScript na Empresa',
       imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[4].nome
     },
     {
       id: uuidv4(),
       nome: 'LEIA ORGANA',
-      cargo: 'Hipster e CEO da Alura',
+      cargo: 'Hipster e Desenvolvedora de Jogos Mobile',
       imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[4].nome
     },
@@ -220,7 +220,7 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: 'MARIO VADER',
-      cargo: 'Desenvolvedor Python e JavaScript na Alura',
+      cargo: 'Desenvolvedor Python e JavaScript na Empresa',
       imagem: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[5].nome
     },
@@ -228,7 +228,7 @@ function App() {
       id: uuidv4(),
       favorito: false,
       nome: 'LEIA ORGANA',
-      cargo: 'Hipster e CEO da Alura',
+      cargo: 'Hipster e Desenvolvedora de Jogos Mobile',
       imagem: 'https://images.pexels.com/photos/2014864/pexels-photo-2014864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       time: times[5].nome
     },
